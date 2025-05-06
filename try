@@ -3,3 +3,10 @@ Date : 7 May 2025
 1. Learning git and github!
 2. Learning Linux!
 3. Learning the basics!
+
+-So the login failed!
+-We must ssh first!
+-git remote add origin git@github.com:Py-969/7May.git
+-git remote set url origin git@github.com:Py-969/7May.git
+
+-adding new lines!
